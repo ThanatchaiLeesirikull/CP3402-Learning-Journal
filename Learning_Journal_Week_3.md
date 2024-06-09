@@ -1,5 +1,5 @@
 ## Learning Activities & Resources
-This week I have drive into the wordpress, one of the best website creation that offer the user a variety of website element and function. 
+This week I have drive into the wordpress, one of the best website creation that offer the user a variety of website element and function. As I have experience with some non-coding software like joomla, I am able to understand the usage in wordpress fastly. I noticed that the wordpress have a flexibility of usage as we can simply design the webpage by dragging the element into the widget and able to customize the design within the widget. Therefore, wordpress is user-friendly for those who are the beginner in web design.
 
 https://www.youtube.com/watch?v=h5VZwTLdgdM
 
