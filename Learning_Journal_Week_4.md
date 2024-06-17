@@ -5,7 +5,13 @@ This week, I focused on running a WordPress website on a localhost using XAMPP a
 ## Estimated Hours for Prac Four
 
 Watching YouTube tutorials: 30 minutes
+
 Setting up XAMPP and migrating WordPress: 1 hour
+
+https://www.youtube.com/watch?v=tIurrwfsCOg
+
+https://www.youtube.com/watch?v=XkKadPcPFT4&t=338s
+
 
 ## Content Insights for Prac Four
 
