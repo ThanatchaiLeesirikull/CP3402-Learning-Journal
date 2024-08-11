@@ -3,9 +3,8 @@ This week, I focused on preparing for my upcoming presentation. The preparation 
 
 ## Estimated Hours
 
-I spent four hours to complete this practicals. The follow action that I have done are setting up the joomla software, watching youtube, creating the website on joomla.
+I spent four hours to complete this practicals. The follow action that I have done are individual presentation rehearsal, group presentation rehearsal, and setting up my laptop.
 
 ## Content Insights
 
-Mastering Joomla is advantageous for individuals involved in web design, particularly in the front-end development field. Joomla’s extensive range of features allows designers to create visually appealing and highly functional websites. From my personal experience using Joomla, the software channel is secure and offer the user a various useful function to enhance web design to be more appealing to user.
-
+From this rehearsal process, I learned that it is important to engage in early and repetitive practice. Once an incomplete version has been created, even if the presentation is not completely done, one can identify areas for improvement as well as any gaps in the work. Rehearsing multiple times means that my content improves and I become more comfortable with speaking.
